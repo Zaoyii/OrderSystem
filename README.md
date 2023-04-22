@@ -24,7 +24,7 @@
 
 解决跨域问题和拦截器，拦截除登录注册外的其他所有接口
 ![image](https://user-images.githubusercontent.com/95206359/233758665-16f1e81f-4856-4eca-a54b-7eb0bdcdc45f.png)
-统一响应实体类
+\n统一响应实体类\n
 ![image](https://user-images.githubusercontent.com/95206359/233758690-e6821d4a-9230-470a-992e-97ee10b666d8.png)
 登录
 ![image](https://user-images.githubusercontent.com/95206359/233758692-ba30cde6-dc7b-4761-aaaa-4e9b3440be9f.png)
