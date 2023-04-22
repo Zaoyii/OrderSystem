@@ -1,7 +1,7 @@
 # 工程简介
-
-# 延伸阅读
-
+  在线点餐的后端功能，实现登录、选菜、下单、评价、菜品发布、点餐查询等等
+# 部分截图
+  
 前端设计
 
 ![image](https://user-images.githubusercontent.com/95206359/233758590-ad78b062-fd9a-42ed-84cf-7a619dde233e.png)
